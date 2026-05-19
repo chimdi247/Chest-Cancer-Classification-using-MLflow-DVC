@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chimd/OneDrive/Desktop/MLops%20and%20LLMops/Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/913ec0121b8c42669cf5c33fc489914d/artifacts
+end_time: 1779191487126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 913ec0121b8c42669cf5c33fc489914d
+run_name: rare-hound-457
+run_uuid: 913ec0121b8c42669cf5c33fc489914d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779191475040
+status: 3
+tags: []
+user_id: chimd

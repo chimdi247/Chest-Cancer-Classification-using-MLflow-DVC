@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chimd/OneDrive/Desktop/MLops%20and%20LLMops/Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/f7c7caf928bc4f119a6dc890502d35df/artifacts
+end_time: 1779193577974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7c7caf928bc4f119a6dc890502d35df
+run_name: vaunted-lark-742
+run_uuid: f7c7caf928bc4f119a6dc890502d35df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779193564642
+status: 3
+tags: []
+user_id: chimd
